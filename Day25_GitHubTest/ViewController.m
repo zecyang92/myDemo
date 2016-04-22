@@ -29,7 +29,7 @@
 }
 
 - (void)try{
-    
+    NSLog(@"hahaha");
 }
 
 - (IBAction)mnvk:(id)sender {
