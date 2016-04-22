@@ -9,6 +9,8 @@
 #import "ViewController.h"
 
 @interface ViewController ()
+@property (weak, nonatomic) IBOutlet UIButton *mhfj;
+- (IBAction)mnvk:(id)sender;
 
 @end
 
@@ -30,4 +32,7 @@
     
 }
 
+- (IBAction)mnvk:(id)sender {
+    
+}
 @end
