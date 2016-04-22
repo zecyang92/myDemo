@@ -30,6 +30,9 @@
 
 - (void)try{
     NSLog(@"hahaha");
+    
+    //forget the comment in last commit
+    //hahahaa
 }
 
 - (IBAction)mnvk:(id)sender {
